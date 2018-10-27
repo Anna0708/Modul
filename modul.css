@@ -1,0 +1,58 @@
+.cl1, .cl2, .cl3 {
+	position: absolute;
+	height: 100px;
+	width: 100px;
+
+}
+
+.cl1 { 
+	background: red;
+	margin-left:10px;
+	margin-top: -179px;
+ }
+
+ .cl2 { 
+	background: lightblue;
+	margin-left: 60px;
+	margin-top: -145px;
+ }
+
+ .cl3 { 
+	background: purple;
+	margin-left: 100px;
+	margin-top: -110px;
+ }
+
+ .block {
+ 	background: gray;
+ 	width:370px;
+ 	height:140px;
+ 	margin-top: 180px;
+ }
+
+ .bl1 {
+ 	background: wheat;
+ 	width: 100px;
+ 	height: 100px;
+ 	float: left;
+ 	overflow: hidden;
+ 	margin-top:20px;
+ 	margin-left: 32px;
+ }
+
+ .bl2 {
+ 	background: green;
+ 	width: 100px;
+ 	height: 100px;
+ 	float: left;
+ 	overflow: hidden;
+ 	margin-top:20px;
+ }
+ .bl3 {
+ 	background: purple;
+ 	width: 100px;
+ 	height: 100px;
+ 	float: left;
+ 	overflow: hidden;
+ 	margin-top:20px;
+ }
